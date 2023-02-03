@@ -2,8 +2,8 @@
 ruhamayared/ruhamayared is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<div align="center">
-  <img align="center" src="https://i.imgur.com/4mDJyXz.png" width="900px">
+<img align="center" src="https://i.imgur.com/4mDJyXz.png" width="1000px">
+<div align="left">
   <hr>
   <h2>About Me</h2>
   <h4>I am currently working towards obtaining my software engineering certificate and have developed a passion for programming. My interests include cloud architecture, machine learning, and AI. In addition to my passion for technology, I am also a middle and high school math teacher, and enjoy traveling and continuously learning new things. </h4>
@@ -39,4 +39,6 @@ You can click the Preview link to take a look at your changes.
       <a href="#"><img src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" />  </a>
     </div>
+   <hr>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruhamayared&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </div>
