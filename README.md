@@ -53,6 +53,7 @@ You can click the Preview link to take a look at your changes.
   </div>
   <div align="center">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruhamayared&show_icons=true&hide_border=true&&count_private=true" />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhamayared&theme=city_light&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=ejs,css" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhamayared&langs_count=10&theme=city_light&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=dockerfile" />
 </div>
+
 
