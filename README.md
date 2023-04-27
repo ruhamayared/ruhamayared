@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <div align="left">
   <hr>
   <h2>About Me</h2>
-  <h4>I just received my software engineering certificate 🎉 and I am genuinly enjoying programming. My interests include cloud architecture, machine learning, and AI. In addition to my passion for technology, I am also a middle and high school math teacher, and enjoy traveling, cooking, and doing math for fun! </h4>
+  <h4>I just received my software engineering certificate 🎉 and I am genuinely enjoying programming. My interests include cloud architecture, machine learning, and AI. In addition to my passion for technology, I am also a middle and high school math teacher, and enjoy traveling, cooking, and doing math for fun! </h4>
   <hr>
   <div>
     <h3>Reach Out</h3>
