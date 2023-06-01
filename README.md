@@ -49,6 +49,7 @@ You can click the Preview link to take a look at your changes.
       <img src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack" />
       <img src="https://img.shields.io/badge/-Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" />
       <img src="https://img.shields.io/badge/-Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" />
    <hr>
   </div>
   <div align="center">
