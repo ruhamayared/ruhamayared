@@ -25,6 +25,7 @@ You can click the Preview link to take a look at your changes.
       <img src="https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/-Python3-3776AB?style=flat-square&logo=Python&logoColor=white" />
       <img src="https://img.shields.io/badge/-Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black" />
       <img src="https://img.shields.io/badge/-React_Router-CA4245?style=flat-square&for-the-badge&logo=react-router&logoColor=white" />
       <img src="https://img.shields.io/badge/-Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white" />
@@ -49,7 +50,9 @@ You can click the Preview link to take a look at your changes.
       <img src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack" />
       <img src="https://img.shields.io/badge/-Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" />
       <img src="https://img.shields.io/badge/-Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white" />
-      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/-AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" />
+      
+
    <hr>
   </div>
   <div align="center">
